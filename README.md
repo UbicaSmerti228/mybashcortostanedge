@@ -1,0 +1,2 @@
+# mybashcortostanedge
+my bashcortostan edge
